@@ -6,7 +6,9 @@ Emoji picker for Wayland using [wofi](https://cloudninja.pw/docs/wofi.html) that
 
 ## Usage
 
-Download wofi-kaomoji, make it an executable, and carry it anywhere you'd like
+If you're on Arch Linux, there's an [AUR package](https://aur.archlinux.org/packages/wofi-kaomoji) you can use.
+
+If you're not, Download wofi-kaomoji, make it an executable, and carry it anywhere you'd like.
 ```bash
 sudo cp wofi-kaomoji /usr/local/bin/wofi-kaomoji
 wofi-kaomoji
